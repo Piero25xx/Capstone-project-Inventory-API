@@ -1,0 +1,4 @@
+meson
+pkg-config
+libcairo2-dev
+
